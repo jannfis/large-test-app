@@ -1,0 +1,4 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+	name: cm-dir163-num2

@@ -1,0 +1,4 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+	name: cm-dir892-num4

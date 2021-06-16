@@ -1,0 +1,4 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+	name: cm-dir897-num5

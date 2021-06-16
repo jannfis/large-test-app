@@ -1,0 +1,4 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+	name: cm-dir560-num1

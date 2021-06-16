@@ -1,0 +1,4 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+	name: cm-dir300-num5
