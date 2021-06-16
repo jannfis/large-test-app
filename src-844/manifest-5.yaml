@@ -1,4 +1,4 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-	name: cm-dir844-num5
+  name: cm-dir844-num5

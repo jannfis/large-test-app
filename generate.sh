@@ -7,7 +7,7 @@ for a in $(seq 1 1000); do
 apiVersion: v1
 kind: ConfigMap
 metadata:
-	name: cm-dir$a-num$b
+  name: cm-dir$a-num$b
 _EOF_
 	done
 done
